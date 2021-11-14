@@ -25,3 +25,5 @@ for i in range(1,1000,2):
 print(cube_list)
 print(total_seven)
 print(total_seven2)
+
+#end

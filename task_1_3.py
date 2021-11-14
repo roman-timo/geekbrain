@@ -13,3 +13,5 @@ for i in range(100):
         ending = 'ов'
 
     print(i + 1, 'процент' + ending)
+
+#end

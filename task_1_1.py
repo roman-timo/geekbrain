@@ -8,3 +8,5 @@ mins = ((duration % 86400) % 3600) // 60
 secs = duration % 60
 
 print(days, 'дн', hrs, 'ч', mins, 'мин', secs, 'сек')
+
+#end
